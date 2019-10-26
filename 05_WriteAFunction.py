@@ -1,3 +1,5 @@
+#Python 3.7 version - HackerRank solution for "Write a Function"
+
 def is_leap(year):  #Writing the function
     if year % 400 == 0:
         return True
